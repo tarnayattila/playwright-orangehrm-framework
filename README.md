@@ -25,7 +25,8 @@ This project demonstrates a scalable Page Object Model (POM) structure, test aut
 ## 📂 Project Structure
 
 
-playwright-orangehrm-framework/
+```bash
+ playwright-orangehrm-framework/
 │
 ├── pages/ # Page Object Models
 │ ├── login_page.py
